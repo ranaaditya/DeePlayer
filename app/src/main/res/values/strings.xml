@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DeePlayer</string>
+
+    <string name="sample_string_song_title">Havana</string>
+    <string name="sample_string_song_artist_name">Camila Cabello</string>
+    <string name="sample_string_song_current_duration">0:00</string>
+    <string name="sample_string_song_total_Duration">1:09:69</string>
+    <string name="sample_string_song_album_name">Camila</string>
+    <string name="sample_string_song_artist_initials">CB</string>
+    <string name="sample_string_song_track_number">1</string>
+
+    <string name="string_player_delete_confirmatio_dialog_message">Confirm to delete this song?</string>
+    <string name="string_player_delete_confirmatio_dialog_discard">Discard</string>
+    <string name="string_player_delete_confirmatio_dialog_confirm">Confirm</string>
+
+    <string name="string_navigation_drawer_grant_permission">Grant Permissions</string>
+    <string name="string_navigation_drawer_change_themes">Change Themes</string>
+    <string name="string_navigation_drawer_log_in_google_account">Log into Account</string>
+    <string name="string_navigation_drawer_refresh_song_list">Refresh Song List</string>
+    <string name="string_navigation_drawer_clear_favourites">Clear Favourites</string>
+
+    <string name="string_player_menu_add_ringtone">Add as Ringtone</string>
+    <string name="string_player_menu_add_particular_ringtone">Add as Particular Contact Ringtone</string>
+    <string name="string_player_menu_share_song">Share Song</string>
+    <string name="string_player_menu_delete_song">Delete Song</string>
+    <string name="string_song_library_menu_search_view">Search Song</string>
+    <string name="string_song_library_menu_settings">Go to Settings</string>
+    <string name="player_no_internet_connection">You\'re not connected to the Internet \n Connect to the internet to show lyrics.</string>
+
+    <string name="settings_grant_permissions">Grant Permissions:</string>
+    <string name="settings_grant_permissions_read_storage">Read Storage</string>
+    <string name="settings_grant_permissions_write_storage">Write Storage</string>
+    <string name="settings_grant_permissions_read_contacts">Read Contacts</string>
+    <string name="settings_grant_permissions_write_settings">Write Settings</string>
+
+
+    <string name="settings_change_theme">Change Theme:</string>
+    <string name="settings_change_theme_violet">Violet</string>
+    <string name="settings_change_theme_crimson_blue">Crimson Blue</string>
+    <string name="settings_change_theme_bluish_green">Bluish Green</string>
+
+    <string name="library_empty_view_no_song_text">No Songs Found!</string>
+    <string name="library_empty_view_no_permission_read_storage">Permission to access storage not granted</string>
+
+    <string name="string_retrofit_get_lyrics_no_response">No lyrics found</string>
+</resources>

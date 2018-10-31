@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103562096423",
+    "firebase_url": "https://deeplayer-d524f.firebaseio.com",
+    "project_id": "deeplayer-d524f",
+    "storage_bucket": "deeplayer-d524f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103562096423:android:efc9dea15d058486",
+        "android_client_info": {
+          "package_name": "com.example.aditya.deeplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103562096423-6v7tfuu1s4fo43dq7fcbarb288jhh9as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.deeplayer",
+            "certificate_hash": "b55e81d3cd07c1cb51e4ddb2abe13faa921a2eea"
+          }
+        },
+        {
+          "client_id": "103562096423-8s3c6c6pd4v735jh0lmicv4g3utiga6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVWGK-8rQ1BpD4-Rv-pr8JwO3_9_LMfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103562096423-8s3c6c6pd4v735jh0lmicv4g3utiga6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

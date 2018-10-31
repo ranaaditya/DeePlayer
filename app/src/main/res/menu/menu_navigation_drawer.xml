@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_drawer_grant_permissions"
+            android:title="@string/string_navigation_drawer_grant_permission" />
+        <item
+            android:id="@+id/navigation_drawer_change_theme"
+            android:title="@string/string_navigation_drawer_change_themes" />
+        <!--<item
+            android:id="@+id/navigation_drawer_log_in_account"
+            android:title="@string/string_navigation_drawer_log_in_google_account" /> -->
+
+        <item
+            android:id="@+id/navigation_drawer_refresh_song_list"
+            android:title="@string/string_navigation_drawer_refresh_song_list" />
+        <item
+            android:id="@+id/navigation_drawer_clear_favourites"
+            android:title="@string/string_navigation_drawer_clear_favourites"/>
+    </group>
+</menu>
